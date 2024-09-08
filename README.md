@@ -5,6 +5,10 @@
 
 Este proyecto se enfoca en la creación y optimización de un modelo de regresión logística para predecir trastornos del sueño utilizando el conjunto de datos "Sleep Health". El objetivo es identificar los factores que afectan los trastornos del sueño y construir un modelo predictivo preciso que pueda generalizar bien a nuevos datos. Se utiliza un enfoque integral que incluye la limpieza de datos, ingeniería de características, y la optimización de modelos mediante técnicas avanzadas.
 
+## Reporte del proyecto
+Reporte Final: Archivo pdf con el reporte completo del proyecto.
+Acceder al reporte [aquí](https://github.com/Maffergu/PortafolioFinalML/blob/main/Reporte-2.pdf)
+
 ## Conjunto de Datos
 
 El conjunto de datos utilizado es el "Sleep Health Dataset" extraído de [Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset). Contiene información sobre diversos factores relacionados con la salud del sueño de los individuos, incluyendo variables como la duración del sueño, calidad del sueño, nivel de actividad física, nivel de estrés, índice de masa corporal (IMC), presión arterial, frecuencia cardíaca, y otros indicadores de salud.
