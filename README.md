@@ -1,5 +1,4 @@
 
-```markdown
 # Sleep Health Prediction Model
 
 ## Descripción
@@ -65,11 +64,6 @@ El modelo optimizado mostró una excelente capacidad de generalización, con alt
 - `sleep_health.csv`: Conjunto de datos utilizado para el análisis.
 - `decision_tree.pdf`: Visualización del árbol de decisión generado.
 
-## Referencias
-
-- [Kaggle Sleep Health Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
-- "Machine Learning Yearning" by Andrew Ng
-- "Pattern Recognition and Machine Learning" by Christopher M. Bishop
 
 ## Contribuciones
 
