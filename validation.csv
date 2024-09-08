@@ -1,0 +1,57 @@
+Person ID,Age,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder,Has Sleep Disorder,Gender_Female,Gender_Male,BMI Category_Normal,BMI Category_Normal Weight,BMI Category_Obese,BMI Category_Overweight
+339,54,8.5,9,30,3,102.5,65,5000,No,0,True,False,True,False,False,False
+51,32,7.5,8,45,3,100.0,70,8000,No,0,False,True,True,False,False,False
+8,29,7.8,7,75,6,100.0,70,8000,No,0,False,True,True,False,False,False
+106,36,6.6,5,35,7,106.5,74,4800,Insomnia,1,False,True,False,False,False,True
+230,44,6.3,6,45,7,107.5,72,6000,Insomnia,1,False,True,False,False,False,True
+69,33,6.2,6,50,6,106.5,76,5500,No,0,True,False,False,False,False,True
+13,29,6.1,6,30,8,100.0,70,8000,No,0,False,True,True,False,False,False
+132,38,7.3,8,60,5,107.5,68,8000,No,0,False,True,True,False,False,False
+286,50,6.0,6,90,8,117.5,75,10000,Sleep Apnea,1,True,False,False,False,False,True
+182,42,7.8,8,90,5,107.5,70,8000,No,0,False,True,True,False,False,False
+208,43,7.7,8,90,5,107.5,70,8000,No,0,False,True,True,False,False,False
+60,32,7.7,7,75,6,100.0,70,8000,No,0,False,True,True,False,False,False
+324,53,8.5,9,30,3,102.5,65,5000,No,0,True,False,True,False,False,False
+187,43,6.7,7,45,4,112.5,65,6000,Insomnia,1,True,False,False,False,False,True
+99,36,7.1,8,60,4,95.0,68,7000,No,0,True,False,True,False,False,False
+82,34,5.8,4,32,8,108.5,81,5200,Sleep Apnea,1,True,False,False,False,False,True
+222,44,6.4,6,45,7,107.5,72,6000,Insomnia,1,False,True,False,False,False,True
+245,44,6.3,6,45,7,107.5,72,6000,Insomnia,1,False,True,False,False,False,True
+72,33,6.1,6,30,8,102.5,72,5000,No,0,False,True,True,False,False,False
+341,55,8.1,9,75,4,117.5,72,5000,Sleep Apnea,1,True,False,False,False,False,True
+5,28,5.9,4,30,8,115.0,85,3000,Sleep Apnea,1,False,True,False,False,True,False
+36,31,6.1,6,30,8,102.5,72,5000,No,0,False,True,True,False,False,False
+90,35,7.3,8,60,4,102.5,65,5000,No,0,False,True,True,False,False,False
+311,52,6.6,7,45,7,107.5,72,6000,Insomnia,1,True,False,False,False,False,True
+25,30,7.8,7,75,6,100.0,70,8000,No,0,False,True,True,False,False,False
+178,42,6.5,6,45,7,107.5,72,6000,Insomnia,1,False,True,False,False,False,True
+277,49,8.1,9,85,3,115.0,86,3700,Sleep Apnea,1,False,True,False,False,True,False
+352,57,8.1,9,75,3,117.5,68,7000,Sleep Apnea,1,True,False,False,False,False,True
+87,35,7.2,8,60,4,102.5,65,5000,No,0,False,True,True,False,False,False
+248,44,6.8,7,45,7,107.5,78,5000,Insomnia,1,False,True,False,False,False,True
+12,29,7.8,7,75,6,100.0,70,8000,No,0,False,True,True,False,False,False
+79,33,6.0,6,30,8,102.5,72,5000,No,0,False,True,True,False,False,False
+305,51,6.1,6,90,8,117.5,75,10000,Sleep Apnea,1,True,False,False,False,False,True
+162,40,7.2,8,55,6,98.0,73,7300,No,0,True,False,False,True,False,False
+344,57,8.1,9,75,3,117.5,68,7000,No,0,True,False,False,False,False,True
+149,39,6.9,7,50,6,106.5,75,5500,No,0,True,False,False,True,False,False
+160,39,7.2,8,60,5,107.5,68,8000,No,0,False,True,True,False,False,False
+205,43,7.6,8,75,4,101.0,68,6800,No,0,False,True,False,False,False,True
+267,48,7.3,7,65,5,117.0,83,3500,Insomnia,1,False,True,False,False,True,False
+45,31,7.7,7,75,6,100.0,70,8000,No,0,False,True,True,False,False,False
+221,44,6.6,7,45,4,112.5,65,6000,Insomnia,1,True,False,False,False,False,True
+292,50,6.1,6,90,8,117.5,75,10000,Sleep Apnea,1,True,False,False,False,False,True
+190,43,6.5,6,45,7,107.5,72,6000,Insomnia,1,False,True,False,False,False,True
+244,44,6.5,7,45,4,112.5,65,6000,Insomnia,1,True,False,False,False,False,True
+259,45,6.6,7,45,4,112.5,65,6000,Insomnia,1,True,False,False,False,False,True
+133,38,7.3,8,60,5,107.5,68,8000,No,0,False,True,True,False,False,False
+225,44,6.6,7,45,4,112.5,65,6000,Insomnia,1,True,False,False,False,False,True
+213,43,7.8,8,90,5,107.5,70,8000,No,0,False,True,True,False,False,False
+317,53,8.5,9,30,3,102.5,65,5000,No,0,True,False,True,False,False,False
+239,44,6.3,6,45,7,107.5,72,6000,Insomnia,1,False,True,False,False,False,True
+358,58,8.0,9,75,3,117.5,68,7000,Sleep Apnea,1,True,False,False,False,False,True
+157,39,7.2,8,60,5,107.5,68,8000,No,0,False,True,True,False,False,False
+134,38,7.1,8,60,4,95.0,68,7000,No,0,True,False,True,False,False,False
+366,59,8.0,9,75,3,117.5,68,7000,Sleep Apnea,1,True,False,False,False,False,True
+373,59,8.1,9,75,3,117.5,68,7000,Sleep Apnea,1,True,False,False,False,False,True
+229,44,6.6,7,45,4,112.5,65,6000,Insomnia,1,True,False,False,False,False,True
