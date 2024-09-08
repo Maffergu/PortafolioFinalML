@@ -1,4 +1,3 @@
-Aquí tienes un ejemplo de archivo README para tu proyecto. Este archivo proporciona una descripción general, instrucciones para ejecutar el proyecto, y detalles sobre el análisis y los resultados:
 
 ```markdown
 # Sleep Health Prediction Model
